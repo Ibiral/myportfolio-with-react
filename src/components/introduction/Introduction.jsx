@@ -19,9 +19,7 @@ const Introduction = () => {
           </div>
         </div>
         <p className="intro-desc">
-          I design and develop services for customers of all sizes,
-          specializing in creating stylish, modern websites, web services and
-          online stores.
+          Je suis développeur web frontend: HTML/CSS/JavaScript/Reactjs/Vuejs/Nextjs/Nodejs.
         </p>
       </div>
     </div>

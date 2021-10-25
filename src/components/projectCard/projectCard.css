@@ -1,0 +1,31 @@
+.p-card {
+    width: 30%;
+    height: 40vh;
+    margin: 20px 10px;
+    border: 1px solid rgb(226, 220, 220);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.p-card-page {
+    height: 20px;
+    background-color: rgb(226, 220, 220);
+    display: flex;
+    align-items: center;
+}
+
+.p-card-point {
+    width: 5px;
+    height: 5px;
+    margin: 2px;
+    border-radius: 50%;
+    background-color: rgb(245, 240, 240);
+}
+
+.p-card-img {
+    width: 100%;
+}
+
+.p-card:hover .p-card-img {
+    opacity: 0.5;
+}
